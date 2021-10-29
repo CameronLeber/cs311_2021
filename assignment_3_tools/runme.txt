@@ -1,2 +1,2 @@
-g++ agentcam.cpp
+./agentcam
 
