@@ -16,8 +16,8 @@ int main(int argc, char* argv[])
 	stack<string> emotionalStack;
 
 	emotionalStack.push(" ");
-  emotionalStack.push(" ");
-  emotionalStack.push(" ");
+  	emotionalStack.push(" ");
+  	emotionalStack.push(" ");
 
 	if (strcmp(argv[0], "silent") == 0)
 	{
