@@ -1,2 +1,3 @@
-./agentcam
+g++ test.cpp
+./test
 
