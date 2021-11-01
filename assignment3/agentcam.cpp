@@ -19,7 +19,7 @@ int main(int argc, char* argv[])
   	emotionalStack.push(" ");
   	emotionalStack.push(" ");
 
-	if (strcmp(argv[0], "silent") == 0)
+	if (strcmp(argv[2], "silent") == 0)
 	{
 		emotionalStack.pop();
 		emotionalStack.push(confess);
